@@ -16,7 +16,8 @@ variable ``SETUPTOOLS_SCM_VERSION``:
 
 Motivation
 ----------
-Sometimes you should install package that depends on setuptools_scm, but you
+Sometimes you should install package that depends on
+`setuptools_scm <https://github.com/pypa/setuptools_scm>`_, but you
 are not able to change anything inside package and/or distribution format.
 In that case you can provide version through environment variable
 and use your usual tools for packaging/installation.
