@@ -1,0 +1,4 @@
+/.eggs/
+/dist/
+/build/
+/src/setuptools_scm_env.egg-info/
